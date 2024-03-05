@@ -1,7 +1,7 @@
 FROM        --platform=$BUILDPLATFORM ubuntu:latest
 
-LABEL       author="Torsten Widmann" maintainer="info@goover.de"
-LABEL       org.opencontainers.image.source="https://github.com/gOOvER/own-pterodactyl-images"
+LABEL       author="Mike Hunt" maintainer="m.hunt@gameservershub.com"
+LABEL       org.opencontainers.image.source="https://github.com/That411Guy/gsh-pterodactyl-images-main"
 LABEL       org.opencontainers.image.licenses=MIT
 
 ENV         DEBIAN_FRONTEND=noninteractive
